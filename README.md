@@ -1,6 +1,6 @@
 <div align=center>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=LXGW+WenKai+TC&duration=6000&pause=1500&color=0080FF&center=true&lines=一只X;South_Stars)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?&user=xbcen&font=LXGW+WenKai+TC&duration=6000&pause=1500&color=0080FF&center=true&lines=一只X;South_Stars)
 
 [![bilibili](https://img.shields.io/badge/B站-South_Stars-00aeec)](https://blog.sstars.dpdns.org)
 [![blog](https://img.shields.io/badge/Blog-Algodoo-orange)](https://blog.sstars.dpdns.org/blog)
