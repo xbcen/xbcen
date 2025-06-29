@@ -5,7 +5,7 @@
 [![bilibili](https://img.shields.io/badge/B站-South_Stars-00aeec)](https://blog.sstars.dpdns.org)
 [![blog](https://img.shields.io/badge/Blog-Algodoo-orange)](https://blog.sstars.dpdns.org/blog)
 
-![stats](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=xbcen&hide_border=true&border_radius=10&locale=zh_Hans&date_format=%5BY/%5Dn/j&theme=tokyonight)
+![stats](https://github-readme-streak-stats.herokuapp.com?user=xbcen&hide_border=true&border_radius=10&locale=zh_Hans&date_format=%5BY/%5Dn/j&theme=tokyonight)
 
 ![snake](https://githubusercontent.zohan.tech/snk.svg?user=xbcen&repo=xbcen&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only)
 
